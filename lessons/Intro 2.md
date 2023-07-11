@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Intro 2
 post_status: publish
 featured_image: /_images/_anita-posch-500-2.jpg
 ---
