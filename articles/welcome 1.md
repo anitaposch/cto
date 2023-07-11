@@ -10,7 +10,7 @@ taxonomy:
         - Show
     post_tag:
         - Adam Back
-        - Andreas M. Antonopoulos
+        - Andreas Antonopoulos
 ---
 
 This is a post on my website.
