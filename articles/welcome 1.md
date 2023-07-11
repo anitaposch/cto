@@ -15,7 +15,8 @@ taxonomy:
 
 This is a post on my website.
 
-![[welcome 1-imga.jpeg]]
+
+![](_images/Blue%20Wallet-1.jpeg)
 
 ## Hey ho
 
