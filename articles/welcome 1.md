@@ -7,8 +7,9 @@ featured_image: /_images/_anita-posch-500-2.jpg
 taxonomy:
     category:
         - Blog
-    post_tag:
         - Show
+    post_tag:
+        - Adam Back
 ---
 
 
