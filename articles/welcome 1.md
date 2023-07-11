@@ -2,14 +2,13 @@
 title: Welcome 1
 menu_order: 1
 post_status: publish
-post_excerpt: Welcome to my newsletter. Here are some resources for a start.
+post_excerpt: My new podcast episode
 featured_image: /_images/_anita-posch-500-2.jpg
 taxonomy:
     category:
-        - test
-        - test-2
+        - Blog
     post_tag:
-        - tagcoin
+        - Show
 ---
 
 
