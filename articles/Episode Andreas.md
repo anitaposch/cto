@@ -1,6 +1,6 @@
 ---
-title: Welcome 1
-menu_order: 1
+title: Episode about Bitcoin with Andreas M. Antonopoulos
+menu_order: 2
 post_status: publish
 post_excerpt: My new podcast episode
 featured_image: /_images/_anita-posch-500-2.jpg
@@ -9,27 +9,14 @@ taxonomy:
         - Blog
         - Show
     post_tag:
-        - Adam Back
         - Andreas M. Antonopoulos
 ---
 
-This is a post on my website.
+Hey Andreas
 
-![](../_images/Blue%20Wallet-1.jpeg)
+![](../_images/Episode%20Andreas.jpeg)
 
-
-
-## Hey ho
-
-Hello, thanks for subscribing to my newsletter.
-
-![Anita Posch](/_images/_anita-posch-500-2.jpg "Anita Posch")
-
-### Heading 3
-
-I'm currently working on my new online learning and community program [Crack The Orange](https://cracktheorange.com), if you've submitted the form, you'll receive a notification as soon as it will be launched!
-
-For a start - here is my documentary about how Bitcoin enforces human rights.
+https://www.youtube.com/watch?v=1NGcN344VPk&t=18s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
