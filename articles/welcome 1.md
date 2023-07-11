@@ -9,7 +9,7 @@ taxonomy:
         - Blog
         - Show
     post_tag:
-        - Adam Back
+        - Adam-Back
 ---
 
 
