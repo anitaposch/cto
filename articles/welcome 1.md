@@ -12,8 +12,9 @@ taxonomy:
         - Adam Back
 ---
 
+This is a post on my website.
 
-## Welcome
+## Hey ho
 
 Hello, thanks for subscribing to my newsletter.
 
