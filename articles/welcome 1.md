@@ -14,8 +14,10 @@ taxonomy:
 ---
 
 This is a post on my website.
+relative path
+![](../_images/Blue%20Wallet-1.jpeg)
 
-
+now absolute path
 ![](_images/Blue%20Wallet-1.jpeg)
 
 ## Hey ho
