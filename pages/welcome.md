@@ -1,13 +1,23 @@
-Link: /welcome
-Title: Anita Posch - Bitcoin educator, author and founder of Bitcoin for Fairness
-Menu: no
-Summary: Welcome to my newsletter. Here are some resources for a start.
+title: Anita Posch - Bitcoin educator, author and founder of Bitcoin for Fairness
+menu_order: 1
+post_status: publish
+post_excerpt: Welcome to my newsletter. Here are some resources for a start.
+featured_image: /_images/_anita-posch-500-2.jpg
+taxonomy:
+    category:
+        - category-slug-1
+        - category-slug-2
+    post_tag:
+        - tag-1
+
+
 
 # Welcome
 
 Hello, thanks for subscribing to my newsletter.
 
-{|<}<img src="../images/_Anita-Posch-500-2.jpg" alt="Anita Posch" width="250"/>
+![Anita Posch](/_images/_anita-posch-500-2.jpg "Caption for the image")
+
 
 I'm currently working on my new online learning and community program [Crack The Orange](https://cracktheorange.com), if you've submitted the form, you'll receive a notification as soon as it will be launched!
 
