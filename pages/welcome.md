@@ -13,12 +13,13 @@ taxonomy:
 ---
 
 
-# Welcome
+## Welcome
 
 Hello, thanks for subscribing to my newsletter.
 
 ![Anita Posch](/_images/_anita-posch-500-2.jpg "Anita Posch")
 
+### Heading 3
 
 I'm currently working on my new online learning and community program [Crack The Orange](https://cracktheorange.com), if you've submitted the form, you'll receive a notification as soon as it will be launched!
 
