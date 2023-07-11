@@ -15,6 +15,8 @@ taxonomy:
 
 This is a post on my website.
 
+![[welcome 1-imga.jpeg]]
+
 ## Hey ho
 
 Hello, thanks for subscribing to my newsletter.
