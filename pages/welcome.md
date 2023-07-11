@@ -3,7 +3,7 @@ title: Anita Posch - Bitcoin educator, author and founder of Bitcoin for Fairnes
 menu_order: 1
 post_status: publish
 post_excerpt: Welcome to my newsletter. Here are some resources for a start.
-featured_image: anita-posch-500-2.jpg
+featured_image: /_images/_anita-posch-500-2.jpg
 taxonomy:
     category:
         - category-slug-1
@@ -17,7 +17,7 @@ taxonomy:
 
 Hello, thanks for subscribing to my newsletter.
 
-![Anita Posch](/_images/_anita-posch-500-2.jpg "Caption for the image")
+![Anita Posch](/_images/_anita-posch-500-2.jpg "Anita Posch")
 
 
 I'm currently working on my new online learning and community program [Crack The Orange](https://cracktheorange.com), if you've submitted the form, you'll receive a notification as soon as it will be launched!
