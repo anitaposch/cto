@@ -23,8 +23,3 @@ While this information may inform best practices, there is no guarantee that fol
 In other words: be cautious, be careful, and be aware of the current Bitcoin landscape before you use this information.
 
 And now let's start with the first module and go into the discovery of Bitcoin.
-
-> [!question] Questions
-> - shall I go to Reha in November
-> - Travel plans
-> - what's that lump on the back of my right knee
