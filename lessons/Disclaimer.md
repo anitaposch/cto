@@ -10,8 +10,8 @@ featured_image: /_images/Disclaimer.jpeg
 
 /_images/Disclaimer.jpeg
 
-![](/_images/Disclaimer.jpeg)
 
+![](../_images/Pasted%20image%2020230720152508.png)
 
 Test
 
