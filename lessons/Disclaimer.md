@@ -8,12 +8,7 @@ featured_image: /_images/Disclaimer.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
-/_images/Disclaimer.jpeg
-
-
-![](../_images/Pasted%20image%2020230720152508.png)
-
-Test
+![](/_images/Disclaimer-alert.jpeg)
 
 ## Transcript
 
