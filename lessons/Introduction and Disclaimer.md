@@ -1,5 +1,5 @@
 ---
-title: Disclaimer
+title: Introduction and Disclaimer
 post_status: publish
 featured_image: /_images/Disclaimer.jpeg
 ---
