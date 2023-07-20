@@ -6,7 +6,7 @@ featured_image: /_images/_anita-posch-500-2.jpg
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/830759141?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="000 Intro and Disclaimer - Basic"></iframe></div>
 
-
+  
 ## Transcript
 
 Hello and welcome to my online course program that introduces you to Bitcoin and also gives you a deep view and a deep learning and understanding about self custody and how to stay private. Digital privacy is a big part of that course. These courses have several modules and several lessons where you can choose to learn more deep knowledge about Bitcoin, about self custody, for instance, how to set up a hardware wallet or how to acquire Bitcoin without KYC.  
