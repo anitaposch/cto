@@ -10,4 +10,4 @@ featured_image: /_images/HardwareWallets.jpeg
 
 ## Transcript
 
-![](_images/HardwareWallets.jpeg)
+
