@@ -1,5 +1,5 @@
 ---
-title: CBDC's
+title: Bitcoin Is Not Money
 post_status: publish
 featured_image: /_images/BitcoinIsNotMoney.jpeg
 ---
