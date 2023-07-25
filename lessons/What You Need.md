@@ -1,5 +1,5 @@
 ---
-title: What you need to start
+title: What You Need
 post_status: publish
 featured_image: /_images/WhatYouNeed.jpeg
 ---
