@@ -1,5 +1,5 @@
 ---
-title: What You Need
+title: What you need to start
 post_status: publish
 featured_image: /_images/WhatYouNeed.jpeg
 ---
@@ -8,6 +8,6 @@ featured_image: /_images/WhatYouNeed.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
-## Wallet, Address, Seed
+
 
 
