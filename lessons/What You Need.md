@@ -8,5 +8,6 @@ featured_image: /_images/WhatYouNeed.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
-## Transcript
+## Wallet, Address, Seed
+
 
