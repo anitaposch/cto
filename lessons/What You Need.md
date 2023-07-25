@@ -1,5 +1,5 @@
 ---
-title: 042 What You Need: Wallet, Address, Seed
+title: What You Need: Wallet, Address, Seed
 post_status: publish
 featured_image: /_images/WhatYouNeed.jpeg
 ---
