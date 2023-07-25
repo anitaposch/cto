@@ -1,6 +1,6 @@
 ---
 title: What You Need
-post_status: draft
+post_status: publish
 featured_image: /_images/WhatYouNeed.jpeg
 ---
 
