@@ -8,11 +8,12 @@ featured_image: /_images/The%20Current%20State.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
-## Materials
+## Additional Information
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/FyK4P7ZdOK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Transcript
 
