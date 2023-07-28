@@ -10,9 +10,9 @@ featured_image: /_images/The%20Current%20State.jpeg
 
 ## Additional Information
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/FyK4P7ZdOK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FyK4P7ZdOK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 The online course has **3 modules and 10 lessons** and after that you can opt-in to do more specific courses like how to setup and use a hardware wallet. I'm offering a course on a Trezor One and the BitBox02. Or how to acquire bitcoin without KYC on Bisq or with Robosats.
