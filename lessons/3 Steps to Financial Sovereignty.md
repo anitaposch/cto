@@ -8,5 +8,9 @@ featured_image: /_images/3StepstoFinancialSovereignty.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
+## Additional Information
+
+What are the 3 steps
+
 ## Transcript
 
