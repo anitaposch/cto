@@ -1,5 +1,5 @@
 ---
-YouTube title: The Fascinating History of Money: Unveiling the Rai Stones of Yap and their Bitcoin Connection
+YouTube title: The Fascinating History of Money Unveiling the Rai Stones of Yap and their Bitcoin Connection
 ---
 
 ## Description
