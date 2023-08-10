@@ -1,7 +1,7 @@
 ---
 title: welcome GIT test
 menu_order: 1
-post_status: publish
+post_status: draft
 post_excerpt: Welcome to my newsletter. Here are some resources for a start.
 featured_image: /_images/_anita-posch-500-2.jpg
 taxonomy:
