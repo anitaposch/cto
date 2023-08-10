@@ -1,1 +1,0 @@
-Is a self-custody wallet

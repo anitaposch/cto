@@ -1,5 +1,5 @@
 ---
-title: Anita Posch - Bitcoin educator, author and founder of Bitcoin for Fairness
+title: welcome GIT test
 menu_order: 1
 post_status: publish
 post_excerpt: Welcome to my newsletter. Here are some resources for a start.
