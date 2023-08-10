@@ -2,14 +2,16 @@
 title: Access to private community channel
 post_status: publish
 post_excerpt: Exclusive group
-featured_image: 
+featured_image:
+comment_status: closed
 taxonomy:
     post_tag:
         - paid
 		- supporter
+
 ---
 
-Welcome!
+## Welcome!
 
 Here you can find our private group: 
 
