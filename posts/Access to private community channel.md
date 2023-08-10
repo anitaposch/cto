@@ -4,9 +4,6 @@ post_status: publish
 post_excerpt: Exclusive group
 featured_image: 
 taxonomy:
-    category:
-        - Blog
-        - Show
     post_tag:
         - paid
 		- supporter
