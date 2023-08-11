@@ -1,5 +1,5 @@
 ---
-title: Private Channel
+title: Community Channel from GIT
 post_status: publish
 featured_image: /_images/3StepstoFinancialSovereignty.jpeg
 ---
