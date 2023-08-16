@@ -1,7 +1,7 @@
 ---
 title: Receive your first bitcoin
 post_status: publish
-featured_image: /_images/.....jpeg
+featured_image: /_images/Phoenix-qr-codes-1.jpeg
 ---
 
 ## Install a Bitcoin Wallet
