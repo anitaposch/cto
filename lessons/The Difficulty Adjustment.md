@@ -1,6 +1,6 @@
 ---
 title: The Difficulty Adjustment
-post_status: publish
+post_status: draft
 featured_image: /_images/TheDifficultyAdjustment.jpeg
 ---
 

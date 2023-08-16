@@ -1,5 +1,5 @@
 ---
-title: SIM Swapping & 2FA
+title: SIM Swapping and 2FA
 post_status: publish
 featured_image: /_images/SIMSwapping2FA.jpeg
 ---
