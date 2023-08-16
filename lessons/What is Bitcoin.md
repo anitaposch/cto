@@ -1,5 +1,5 @@
 ---
-title: What is Bitcoin
+title: What is Bitcoin?
 post_status: publish
 featured_image: /_images/WhatisBitcoin.jpeg
 ---
