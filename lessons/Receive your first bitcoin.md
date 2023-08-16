@@ -15,13 +15,14 @@ The first thing you need to do is to install the [**Phoenix Wallet**](https://ph
 <blockquote class="imp">
 <i class="mpcs-quiz-icon"></i> <strong>Important</strong>
 
-<strong>**DO NOT**</strong> make a screenshot of your seed (12 words)
-<strong>**DO NOT**</strong> send it in an email or messenger
+<strong>DO NOT</strong> make a screenshot of your seed (12 words)
+<strong>DO NOT</strong> send it in an email or messenger
 
-<strong>**ONLY write it down on a sheet of paper and keep that secure!</strong>
+<strong>ONLY write it down on a sheet of paper and keep that secure!</strong>
 
 </blockquote>
 
+<br><br>
 ## Receive bitcoin
 
 Now you're set to receive your first bitcoin. Anita will send it to you in a live session, which will be announced via email.
