@@ -8,6 +8,8 @@ featured_image: /_images/.....jpeg
 
 The first thing you need to do is to install the [**Phoenix Wallet**](https://phoenix.acinq.co/) on your phone.
 
+Then scan the Qr code which leads you to your App store, where you can download the wallet.
+
 ![Scan the QR code to download the app](_images/Phoenix-qr-codes-1.jpeg)
 
 ![Open the app and follow instructions](_images/Phoenix-Install-Receive-1.jpeg)
