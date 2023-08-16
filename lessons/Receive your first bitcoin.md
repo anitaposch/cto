@@ -8,9 +8,9 @@ featured_image: /_images/.....jpeg
 
 The first thing you need to do is to install the [**Phoenix Wallet**](https://phoenix.acinq.co/) on your phone.
 
-![Scan the QR code to download the app](/_images/Phoenix-qr-codes.jpeg)
+![Scan the QR code to download the app](_images/Phoenix-qr-codes-1.jpeg)
 
-![Open the app and follow instructions](/_images/Phoenix-Install-Receive.jpeg)
+![Open the app and follow instructions](_images/Phoenix-Install-Receive-1.jpeg)
 
 <blockquote class="imp">
 <i class="mpcs-quiz-icon"></i> <strong>Important</strong>
