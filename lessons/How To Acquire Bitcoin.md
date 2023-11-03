@@ -9,4 +9,4 @@ featured_image: /_images/HowToAcquireBitcoin.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Transcript
-
+..
