@@ -18,6 +18,6 @@ Another big part of Bitcoin is coming from the science of game theory with the i
 
 And if this all sounds very irritating because you don't understand what I'm talking about, really not a problem. I was there at the beginning too, and maybe you want watch this short clip that's from, I don't know, I think 1993 where US American TV presenters are discussing what in the internet is and what an email is. It's very funny. See you in the next lesson.
 
-## Additional Links
+## Additional Information
 
-YouTube Video "Flashback! The Internet In 1995": https://www.youtube.com/watch?v=95-yZ-31j9A
+* [YouTube Video - "Flashback! The Internet In 1995"](https://www.youtube.com/watch?v=95-yZ-31j9A)
