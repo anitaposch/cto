@@ -8,6 +8,9 @@ featured_image: /_images/TheInternetofMoney.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
+## Additional Information
+[BTCpodcasting](https://btcpodcasting.com/) - Host your Bitcoin-related podcast and receive satoshis from your audience (value-for-value) 
+
 ## Transcript
 
 So let's look into the internet of money. Why Bitcoin is the new system. Why is it so revolutionary? We just said that many blockchains are basically permissioned. That's a system that we don't need. But Bitcoin is not only open and neutral, it's also a common good. It's like public infrastructure. We can compare it to the internet. The internet started in 1969 in the US and as you can see here, there were only four connections in 1969. And it grew over the years into that system that we know today, where almost everyone in the world who has access to a smartphone and to the internet can be connected and can send messages to everyone around the world almost for free. 
