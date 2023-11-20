@@ -9,7 +9,7 @@ featured_image: /_images/TheInternetofMoney.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Additional Information
-[BTCpodcasting](https://btcpodcasting.com/) - Host your Bitcoin-related podcast and receive satoshis from your audience (value-for-value) 
+* Host your Bitcoin-related podcast and receive satoshis from your audience (value-for-value): [BTCpodcasting](https://btcpodcasting.com/)
 
 ## Transcript
 
