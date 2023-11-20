@@ -8,6 +8,10 @@ featured_image: /_images/WhatisBitcoin.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
+## Additional Information
+
+* [YouTube Video - "Flashback! The Internet In 1995"](https://www.youtube.com/watch?v=95-yZ-31j9A)
+
 ## Transcript
 
 In the next chapter, I'm discussing the question of what is Bitcoin? So if people ask what Bitcoin is, my first and shortest answer is always Bitcoin is digital cash. It's like the bank notes and the coins in your pocket. It belongs to you, and no one can hinder you from spending it or from saving it. If you use cash to buy a bicycle, for instance, you hand the seller your bank notes and coins. You don't need to trust the seller because you got your bicycle and the shop got its money. The deal is closed without a bank identification or credit card. 
@@ -17,7 +21,3 @@ The same is true for Bitcoin. When you buy something, whether on the internet or
 Another big part of Bitcoin is coming from the science of game theory with the incentives for miners to behave well, basically to not try and cheat, with the proof of work mechanism, which is basically also a game. The theoretical concept and the whole social consensus in Bitcoin. And then additionally the blockchain, which is a database with all transactions in the correct chronological order. And that's why it's actually called a time chain. 
 
 And if this all sounds very irritating because you don't understand what I'm talking about, really not a problem. I was there at the beginning too, and maybe you want watch this short clip that's from, I don't know, I think 1993 where US American TV presenters are discussing what in the internet is and what an email is. It's very funny. See you in the next lesson.
-
-## Additional Information
-
-* [YouTube Video - "Flashback! The Internet In 1995"](https://www.youtube.com/watch?v=95-yZ-31j9A)
