@@ -6,6 +6,10 @@ taxonomy:
 category:
  - for-members
  - deep-dive
+post_tags:
+ - enthusiast
+
+
 
 ---
 
