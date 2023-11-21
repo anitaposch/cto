@@ -4,7 +4,7 @@ post_status: publish
 featured_image: /images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 ---
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/881548035?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="(L)earn Bitcoin - Know Your Basics - Transactions &amp; PoW Mining | Indonesia Bitcoin Conference 2023"></iframe></div>
+<div style="padding:0 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/881548035?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="(L)earn Bitcoin - Know Your Basics - Transactions &amp; PoW Mining | Indonesia Bitcoin Conference 2023"></iframe></div>
 
 <div style="margin-bottom:30px;"></div>
 
