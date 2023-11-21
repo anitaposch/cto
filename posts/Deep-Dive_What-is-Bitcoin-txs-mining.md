@@ -5,6 +5,7 @@ featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 taxonomy:
  category:
   - deep-dive
+  - for-members
 
 ---
 
