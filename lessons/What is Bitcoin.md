@@ -11,6 +11,7 @@ featured_image: /_images/WhatisBitcoin.jpeg
 ## Additional Information
 
 * [YouTube Video - "Flashback! The Internet In 1995"](https://www.youtube.com/watch?v=95-yZ-31j9A)
+* Learn more about the important properties of Bitcoin in [my talk from the IDBC2023](https://my.cracktheorange.com/deep-dive_what-is-bitcoin-txs-mining/)
 
 ## Transcript
 
