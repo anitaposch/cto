@@ -7,6 +7,7 @@ taxonomy:
   - deep-dive
   - for-members
 
+
 ---
 
 <iframe src="https://player.vimeo.com/video/881548035?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="1000" height="563" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="(L)earn Bitcoin - Know Your Basics - Transactions &amp; PoW Mining | Indonesia Bitcoin Conference 2023"></iframe>
