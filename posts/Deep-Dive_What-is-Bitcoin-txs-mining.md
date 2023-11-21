@@ -1,6 +1,6 @@
 ---
 title: Transactions & PoW Mining | Indonesia Bitcoin Conference 2023
-post_status: draft
+post_status: publish
 featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 taxonomy:
  category:
