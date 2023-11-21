@@ -4,7 +4,6 @@ post_status: draft
 featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 taxonomy: 
 category: 
- - for-members
  - deep-dive
 
 ---
