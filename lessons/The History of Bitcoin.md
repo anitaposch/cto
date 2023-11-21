@@ -10,6 +10,7 @@ featured_image: /_images/TheHistoryofBitcoin.jpeg
 
 ## Additional Information
 * Website where the Bitcoin whitepaper was published: [bitcoin.org](https://bitcoin.org/)
+* Learn more about the pre-history of Bitcoin in [my talk from the IDBC2023](https://my.cracktheorange.com/deep-dive_what-is-bitcoin-txs-mining/)
 
 ## Transcript
 
