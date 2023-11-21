@@ -1,6 +1,7 @@
 ---
 title: Transactions & PoW Mining | Indonesia Bitcoin Conference 2023
 post_status: publish
+post_excerpt: So you worked your way through the (L)earn Bitcoin Course but still you don't understand how transactions work or what Proof of Work mining and a blockchain is. No worries, learning Bitcoin requires going back and forth while deepening single topics. This presentation from the Indonesia Bitcoin Conference 2023 offers a comprehensive introduction to Bitcoin and shows exactly how everything is working together.
 featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 taxonomy:
  category:
