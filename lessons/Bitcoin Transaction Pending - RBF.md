@@ -8,6 +8,9 @@ featured_image: /_images/RBF.jpeg
 
 <div style="margin-bottom:30px;"></div>
 
+## Additional Information
+* Learn more about transactions in [my talk from the IDBC2023](https://my.cracktheorange.com/deep-dive_what-is-bitcoin-txs-mining/)
+
 ## Transcript
 
 
