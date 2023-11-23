@@ -10,14 +10,14 @@ featured_image: /_images/_Self-Custody-Green-Wallet-vimeo.png
 
 ## Here's what you will learn
 
-* How to install and open a new wallet
-* How to backup your wallet with a seed phrase
-* How to secure your wallet with a 2FA and a pin
-* How to set your wallet preferences and adjust the app settings according to your needs
-* How to receive bitcoin and create invoices
-* How to create several accounts and wallets
-* How to restore your wallet, e.g. in case you lose your phone
-* How to check your used Bitcoin addresses
+- Install and open a new wallet
+- Backup your wallet with a seed phrase
+- Secure your wallet with a 2FA and a pin
+- Set your wallet preferences and adjust the app settings according to your needs
+- Receive and send bitcoin
+- Create several accounts and wallets
+- Restore your wallet, e.g. in case you lose your phone
+- Check your used Bitcoin addresses
 
 Each section of the tutorial is timestamped, so you can easily navigate through the content based on your interests and needs.
 
