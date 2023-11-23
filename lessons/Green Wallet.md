@@ -1,5 +1,5 @@
 ---
-title: How to create and use the Green Wallet
+title: Create and use the Green Wallet
 post_status: publish
 featured_image: /_images/_Self-Custody-Green-Wallet-vimeo.png
 ---
