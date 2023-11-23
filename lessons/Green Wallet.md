@@ -10,6 +10,8 @@ featured_image: /_images/_Self-Custody-Green-Wallet-vimeo.png
 
 ## Here's what you will learn
 
+Find the chapter marks on the right bottom of the video.
+
 - Install and open a new wallet
 - Backup your wallet with a seed phrase
 - Secure your wallet with a 2FA and a pin
@@ -19,7 +21,6 @@ featured_image: /_images/_Self-Custody-Green-Wallet-vimeo.png
 - Restore your wallet, e.g. in case you lose your phone
 - Check your used Bitcoin addresses
 
-Each section of the tutorial is timestamped, so you can easily navigate through the content based on your interests and needs.
 
 ## Transcript
 
