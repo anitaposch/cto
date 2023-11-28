@@ -10,3 +10,13 @@ featured_image: /_images/HowToObtainBitcoin.jpeg
 
 ## Transcript
 
+So, now let's get into the weeds and become more practical. How can you acquire bitcoin? Some people call it "How can I invest in Bitcoin?" Well, actually I don't like the term invest so much because sometimes it sounds if as if it's something special where you need to be an accredited investor, something like that. While Bitcoin is opening the opportunity to invest in something to everyone, and that's why I prefer to speak about how to save bitcoin and also how to earn bitcoin because earning is an opportunity that also comes without KYC. 
+
+So, which other methods are there to acquire bitcoin without being listed? 
+
+- First, you can go to a local Bitcoin meetup and ask the attendees, if anyone wants to exchange national currency to bitcoin for you.
+- You can buy it at the Bitcoin ATM. In some countries that works without ID up to a certain limit.
+- You can buy gift cards or vouchers and obtain bitcoin that way.
+- You can earn it. As I said before, you can sell things for bitcoin or you build something of value, you create content and ask for donations.
+- And if you have free or very, very cheap electricity, you can start mining bitcoin.
+- Or, which is that thing that most people can do and will do, is: You can buy it peer to peer at the non KYC exchange.
