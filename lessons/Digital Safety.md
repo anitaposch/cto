@@ -9,7 +9,7 @@ featured_image: /_images/DigitalSafety.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Additional Information
-* Check your password strength [bitwarden.com/password-strength](https://bitwarden.com/password-strength/)
+* [Check your password strength](https://bitwarden.com/password-strength/)
 * Password Managers: [bitwarden](https://bitwarden.com/), [KeePassCX](https://keepassxc.org/) & [1Password](https://1password.com/)
 
 ## Transcript
