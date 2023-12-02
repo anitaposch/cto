@@ -9,7 +9,7 @@ featured_image: /_images/BuyingBitcoinRegulatedExchange.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Additional Information
-* Custodial Exchanges: [Binance](https://www.binance.com/),[Coinbase](https://www.coinbase.com/),[Luno](https://www.luno.com/),[Kraken](https://www.kraken.com/), [Yellow Card](https://www.yellowcard.io/) & [Bitstamp](https://www.bitstamp.net)
+* Custodial Exchanges: [Binance](https://www.binance.com/), [Coinbase](https://www.coinbase.com/), [Luno](https://www.luno.com/), [Kraken](https://www.kraken.com/), [Yellow Card](https://www.yellowcard.io/) & [Bitstamp](https://www.bitstamp.net)
 * Austrian Bitcoin Broker: [Coinfinity](https://www.coinfinity.co)
 
 ## Transcript
