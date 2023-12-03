@@ -10,6 +10,7 @@ featured_image: /_images/RBF.jpeg
 
 ## Additional Information
 * Learn more about transactions in [my talk from the IDBC2023](https://my.cracktheorange.com/deep-dive_what-is-bitcoin-txs-mining/)
+* Check your pending transactions and current fees in the block explorer: Mempool.space
 
 ## Transcript
 
