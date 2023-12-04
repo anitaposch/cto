@@ -24,10 +24,10 @@ And there we also have a comparison, comparison of the traits of money. This was
 - **Highly divisible**: Yeah. Gold. Hmm. Yes, you can have small gold coins, but other than that? While bitcoin, we have very, very small units of bitcoin.
 - **Secure**: It should not be able to be counterfeited. Well, you can counterfeit gold, you can counterfeit fiat currency, but you cannot forge bitcoin.
 -  **Easily transactable**: Well, gold, not so much, fiat high. Bitcoin also high.
--  **Scarce**: It should be scars where the supply is predictable. Yes, gold. Moderately because there is a certain amount of gold, but we don't know how much there will be in the future. Fiat money is definitely not scarce as we've seen in the chapters about monetary money supply inflation, and Ponzi schemes. Bitcoin is very scars because we only will have 21 million bitcoin ever.
+-  **Scarce**: It should be scars where the supply is predictable. Yes, gold. Moderately because there is a certain amount of gold, but we don't know how much there will be in the future. Fiat money is definitely not scarce as we've seen in the chapters about monetary money supply inflation, and Ponzi schemes. Bitcoin is very scarce because we only will have 21 million bitcoin ever.
 
 And then these three rows are basically new because that's what bitcoin is, what hasn't been there before. 
 
 - **Government issued**: Gold is not issued by governments, but fiat money is. Bitcoin is not.
 - **Decentralization**: So gold is definitely not decentralized. And fiat money also is not decentralized created.
-- **Programmability**: Gold is not programmable. Fiat is not programmable. But bitcoin is.
+- **Programmability**: Gold is not programmable. Fiat is not programmable. But Bitcoin is.
