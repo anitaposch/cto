@@ -12,4 +12,4 @@ featured_image: /_images/ArgumentsForBitcoin.jpeg
 
 After a series of arguments against Bitcoin, we are now looking into arguments that speak for Bitcoin. 
 
-Why you maybe should consider Bitcoin is not because the Bitcoin sign guy here in the back is really holding that sign. But because Bitcoin is an opt-in system, you can choose to use it. You choose what apps you are running on it. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why Bitcoin is going to win. It delivers innovation that consumers want and need.
+Why you maybe should consider Bitcoin is not because the Bitcoin sign guy here in the back is really holding that sign. But because Bitcoin is an opt-in system. You can choose to use it. You choose what apps you are running on it. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why Bitcoin is going to win. It delivers innovation that consumers want and need.
