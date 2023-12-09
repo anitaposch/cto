@@ -10,3 +10,4 @@ featured_image: /_images/WipeSeedatHardwareWalletSetup.jpeg
 
 ## Transcript
 
+There are tutorials in that program where I show you how to set up a hardware wallet. But in general, if you are setting up a hardware wallet, you should first send a small amount of bitcoin to it to make sure that everything works. After you've received that small amount, delete the software from the device and restore it with the words you've written down previously. This is an important step that you should not skip. So, you only enter your seed words into your hardware device, not on the desktop or on your mobile wallet. After that, it's advisable to take the following security measures to prevent you from losing your seed. When people lose access to their funds, so I've lost access to my bitcoin, or I lost my bitcoin, it's more often because they have lost their seed or made a mistake writing it down, and not because their devices have been hacked or stolen.
