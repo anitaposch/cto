@@ -9,7 +9,7 @@ featured_image: /_images/LearningByDoing.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Additional Information
-* [Bitcoin For Fairness Website](https://bffbtc.org/)
+* Find the flyers about how to install wallets at our [Bitcoin For Fairness Website](https://bffbtc.org/)
 * Find a Bitcoin ATM: [anita.link/atm](https://anita.link/atm)
 
 ## Transcript
