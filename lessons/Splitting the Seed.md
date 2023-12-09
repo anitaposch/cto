@@ -10,3 +10,4 @@ featured_image: /_images/SplittingtheSeed.jpeg
 
 ## Transcript
 
+Then some people might tell you to split up your seed into two or three pieces by yourself, just like on that image where I cut a seed phrase into two parts. Don't do this, because dividing the words into two or more parts and storing them in different locations is a common mistake. You cannot restore your bitcoin funds if you lose half of the words to your cphrase. So don't do this. It's better to split up the technical risk or do the other options, which I'm telling you now.
