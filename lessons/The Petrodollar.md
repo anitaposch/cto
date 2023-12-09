@@ -12,7 +12,7 @@ featured_image: /_images/ThePetrodollar.jpeg
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/GVytOtfPZe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-##Transcription
+## Transcription
 
 Now that you've learned how money is created, let's dive a little into the history of currency wars and what that is. And that chapter is called the Petrodollar. The history of currency wars is long. Over the past century, the world went from a gold standard system to the Bretton wood system, to the petrodollar system. And each system mostly unraveled from within rather than being brought down externally. Each time one system transitioned to another, a significant and widespread currency devaluation occurred. The first hegemon, in terms of currency, was definitely the British Empire. It lasted from 1871 to the world to the First World war. And back then the pound sterling was packed to gold. And after the interwar period when monetary power began to decentralize, the United States emerged as the central money powerhouse after the Allied victory in the Second World War. 
 
