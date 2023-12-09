@@ -10,3 +10,6 @@ featured_image: /_images/ReduceRiskofTechnicalFailure.jpeg
 
 ## Transcript
 
+Another technique to split the risk of losing funds is splitting the risk of technical failure and getting yourself not one, but two or three hardware wallets and then split the funds to these different devices. 
+
+Of course you will then have two or three seed phrases that you need to store additionally in a secure place, but basically you then can use the same place to store several seed phrases. But now you have less risk if one of the manufacturers wallets has a fault or a bug or I don't know what can happen, but always stay more secure than you think that you need it. And I guess with your life savings you want to be on the secure side.
