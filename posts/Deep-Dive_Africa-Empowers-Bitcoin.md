@@ -14,7 +14,9 @@ taxonomy:
 
 <div style="margin-bottom:30px;"></div>
 
-Please add excerpt
+## Excerpt
+
+In my keynote at the Africa Bitcoin Conference, I focus on how Africa is empowering Bitcoin and the vital role Bitcoin plays in African countries dealing with inflation and authoritarian government control. I highlight the growing adoption of Bitcoin across the continent and the expanding community - also thanks to the work and support from our Bitcoin For Fairness initiative. I emphasize that while these developments are significant, they're just the start. The ongoing need for education and hands-on support in these communities is crucial for the continued growth and effective use of Bitcoin, not only in Africa but also globally.
 
 ## Transcript
 
