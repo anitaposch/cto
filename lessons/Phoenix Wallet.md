@@ -22,7 +22,7 @@ Find the chapter marks on the right bottom of the video.
 - How to send sats from your wallet
 - How to create an invoice to receive a Lightning payment
 - How to send sats from Phoenix (Lightning) to a Bitcoin on-chain address
-- How much you have to pay for the transaction costs
+- How much service fees you have to pay for the transactions
 
 ## Additional Information
 * [Phoenix Wallet FAQs](https://phoenix.acinq.co/faq) by Acinq
