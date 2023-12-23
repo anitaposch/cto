@@ -1,5 +1,5 @@
 ---
-title: Create and use the Phoenix Wallet
+title: Phoenix Wallet - Use Lightning with Self-Custody in 10 Minutes
 post_status: draft
 featured_image: /_images/_thumbnail
 ---
@@ -22,7 +22,7 @@ Find the chapter marks on the right bottom of the video.
 - How to send sats from your wallet
 - How to create an invoice to receive a Lightning payment
 - How to send sats from Phoenix (Lightning) to a Bitcoin on-chain address
-- How much service fees you have to pay for the transactions
+- How much the payment fees for Phoenix are
 
 ## Additional Information
 * [Phoenix Wallet FAQs](https://phoenix.acinq.co/faq) by Acinq
