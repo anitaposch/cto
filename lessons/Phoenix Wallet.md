@@ -1,6 +1,6 @@
 ---
 title: Phoenix Wallet - Use Lightning with Self-Custody in 10 Minutes
-post_status: draft
+post_status: publish
 featured_image: /_images/_thumbnail
 ---
 
