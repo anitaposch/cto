@@ -12,7 +12,7 @@ taxonomy:
 <div style="margin-bottom:30px;"></div>
 
 
-#### [Read the transcript](#transcript:-coin-control-&-utxo-managament)
+#### [Read the transcript](#transcript-1)
 
 ---
 title: What Is UTXO Management and Why Is It Important? Explainer: Impact On Fees and Privacy
@@ -28,14 +28,14 @@ taxonomy:
 <div style="margin-bottom:30px;"></div>
 
 
-#### [Read the transcript](#transcript:-what-is-utxo-management-and-why-is-it-important?-explainer-impact-on-fees-and-privacy)
+#### [Read the transcript](#transcript-2)
 
 ## Additional Information
 * [Sparrow Wallet](https://sparrowwallet.com/) - Desktop Wallet for coin control (UTXO management)
 * [BlueWallet](/https://bluewallet.io/) - Bitcoin Wallet for coin control (UTXO management)
 * [BlueWallet Tutorial](https://youtu.be/NqY3wBhloH4) - Start Using Bitcoin in under 5 Minutes
 
-## Transcript: Coin Control & UTXO Managament
+## Transcript 1
 
 The amount of fee you are paying for a Bitcoin transaction is not depending on the amount you're sending. It's not like in the banking system, when you send a high amount, you will pay high fees. You can send, I say like a value of 5 Eur in bitcoin. You can also send a value of 5 billion euros in bitcoin and you will pay the same transaction fee, because the transaction fees in Bitcoin are derived from the data size of your transaction. And that's why you can actually save fees if you are doing UTXO management, coin control. 
 
@@ -43,7 +43,7 @@ This for instance, is the Sparrow Wallet where you can do coin control. When Bit
 
 This of course is advanced knowledge and you don't need to know that when you start using Bitcoin. So please, don't be discouraged by that. Start using it, start practicing and you will deepen your knowledge further and further, also with the videos and tutorials I'm providing here in my program.
 
-## Transcript: What Is UTXO Management and Why Is It Important? Explainer Impact On Fees and Privacy
+## Transcript 2
 
 I find it hard to understand UTXOs and how I do the coin control. Could you please explain it again in a more simple way? How important is it to do the UTXO management and which tools can I use to do it? 
 
