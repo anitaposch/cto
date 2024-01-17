@@ -17,7 +17,7 @@ taxonomy:
 ---
 title: What Is UTXO Management and Why Is It Important? Explainer: Impact On Fees and Privacy
 post_status: draft
-featured_image: /_images/CoinControlUTXOManagement.jpeg
+featured_image: /_images/Thumbnail-Manage-UTXO.jpeg
 taxonomy:
     post_tag:
         - advanced
