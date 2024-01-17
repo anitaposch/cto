@@ -28,7 +28,7 @@ taxonomy:
 <div style="margin-bottom:30px;"></div>
 
 
-#### [Read the transcript](#transcript:-what-is-utxo-management-and-why-is-it-important?-explainer:-impact-on-fees-and-privacy)
+#### [Read the transcript](#transcript:-what-is-utxo-management-and-why-is-it-important?-explainer-impact-on-fees-and-privacy)
 
 ## Additional Information
 * [Sparrow Wallet](https://sparrowwallet.com/) - Desktop Wallet for coin control (UTXO management)
@@ -43,7 +43,7 @@ This for instance, is the Sparrow Wallet where you can do coin control. When Bit
 
 This of course is advanced knowledge and you don't need to know that when you start using Bitcoin. So please, don't be discouraged by that. Start using it, start practicing and you will deepen your knowledge further and further, also with the videos and tutorials I'm providing here in my program.
 
-## Transcript: What Is UTXO Management and Why Is It Important? Explainer: Impact On Fees and Privacy
+## Transcript: What Is UTXO Management and Why Is It Important? Explainer Impact On Fees and Privacy
 
 I find it hard to understand UTXOs and how I do the coin control. Could you please explain it again in a more simple way? How important is it to do the UTXO management and which tools can I use to do it? 
 
