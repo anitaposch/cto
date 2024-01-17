@@ -17,7 +17,7 @@ taxonomy:
 
 <div style="margin-bottom:30px;"></div>
 
-#### [Read the transcript](#transcript-2)
+#### [Read the transcript](#transcript-video-2)
 
 ## Additional Information
 * [Sparrow Wallet](https://sparrowwallet.com/) - Desktop Wallet for coin control (UTXO management)
