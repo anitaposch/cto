@@ -1,6 +1,6 @@
 ---
 title: Coin Control - UTXO Management
-post_status: draft
+post_status: publish
 featured_image: /_images/CoinControl.jpeg
 taxonomy:
     post_tag:
