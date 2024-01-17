@@ -1,7 +1,7 @@
 ---
 title: Coin Control - UTXO Management
 post_status: draft
-featured_image: /_images/CoinControlUTXOManagement.jpeg
+featured_image: /_images/CoinControl.jpeg
 taxonomy:
     post_tag:
         - advanced
@@ -11,22 +11,11 @@ taxonomy:
 
 <div style="margin-bottom:30px;"></div>
 
-
 #### [Read the transcript](#transcript-video-1)
 
----
-title: What Is UTXO Management and Why Is It Important? Explainer: Impact On Fees and Privacy
-post_status: draft
-featured_image: /_images/Thumbnail-Manage-UTXO.jpeg
-taxonomy:
-    post_tag:
-        - advanced
----
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/903170650?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="title="What Is UTXO Management and Why Is It Important? Explainer: Impact On Fees and Privacy"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/903170650?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="What Is UTXO Management and Why Is It Important? Explainer: Impact On Fees and Privacy"></iframe></div>
 
 <div style="margin-bottom:30px;"></div>
-
 
 #### [Read the transcript](#transcript-2)
 
